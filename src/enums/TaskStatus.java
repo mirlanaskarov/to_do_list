@@ -1,2 +1,8 @@
-package enums;public class TaskStatus {
+package enums;
+
+public enum TaskStatus {
+    DONE,
+    IN_PROGRESS,
+    DELETED
+
 }
